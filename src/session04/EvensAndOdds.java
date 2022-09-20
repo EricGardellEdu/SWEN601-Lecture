@@ -1,4 +1,4 @@
-package activities;
+package session04;
 
 import java.util.Scanner;
 

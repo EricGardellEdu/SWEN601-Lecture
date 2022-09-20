@@ -5,31 +5,89 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d24f236-8b39-4a4b-82f7-84ce48eb6389" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../SWEN-601/Carroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEN-601/Carroll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/activities/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/activities/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session07/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework07-EricGardellEdu/homework/problem01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session02/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02/Expressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session02/Expressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02/Literally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session02/Literally.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02/PetNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session02/PetNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02/WeightConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session02/WeightConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session03/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session03/Calendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session03/EvensAndOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session03/EvensAndOdds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session03/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session03/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session03/Week.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session03/Week.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session04/CountDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session04/CountDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session04/CountUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session04/CountUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session04/EvensAndOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session04/EvensAndOdds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session04/FillArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session04/FillArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session04/MulTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session04/MulTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session05/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session05/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session05/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session05/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session05/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session05/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session06/SortUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session06/SortUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session06/Sorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session06/Sorts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2F22yd47qIoEYagKd0wIWzDK774" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ericg\School\SWEN601\activities\src" />
+      <recent name="C:\Users\ericg\School\SWEN601\activities\session07" />
+      <recent name="C:\Users\ericg\School\SWEN601\activities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session07.Dog" />
+      <module name="activities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dog" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +97,19 @@
       <option name="presentableId" value="Default" />
       <updated>1663676113608</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created new repository with all the lecture activities in one.">
+      <created>1663676313890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663676313890</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Created new repository with all the lecture activities in one." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created new repository with all the lecture activities in one." />
   </component>
 </project>
