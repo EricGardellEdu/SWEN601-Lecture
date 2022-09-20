@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d24f236-8b39-4a4b-82f7-84ce48eb6389" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/session07/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session07/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663685430533</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updated initializing constructor of dog class to use chained constructors">
+      <created>1663685867992</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663685867992</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -128,6 +136,7 @@
     <MESSAGE value="added initializing constructor to dog class" />
     <MESSAGE value="updated initializing constructor of dog class to use 'this' keyword" />
     <MESSAGE value="updated initializing constructor of dog class to use custum default values for the fields." />
-    <option name="LAST_COMMIT_MESSAGE" value="updated initializing constructor of dog class to use custum default values for the fields." />
+    <MESSAGE value="updated initializing constructor of dog class to use chained constructors" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated initializing constructor of dog class to use chained constructors" />
   </component>
 </project>
