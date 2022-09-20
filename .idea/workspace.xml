@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d24f236-8b39-4a4b-82f7-84ce48eb6389" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/session07/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework07-EricGardellEdu/homework/problem01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/session02/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session02/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session02/Expressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session02/Expressions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session02/Literally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session02/Literally.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session02/PetNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session02/PetNames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session02/WeightConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session02/WeightConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session03/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session03/Calendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session03/EvensAndOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session03/EvensAndOdds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session03/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session03/Register.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session03/Week.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session03/Week.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session04/CountDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session04/CountDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session04/CountUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session04/CountUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session04/EvensAndOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session04/EvensAndOdds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session04/FillArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session04/FillArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session04/MulTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session04/MulTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session05/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session05/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session05/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session05/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session05/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session05/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session06/SortUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session06/SortUtilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session06/Sorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session06/Sorts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session07/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session07/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,12 +83,20 @@
       <option name="project" value="LOCAL" />
       <updated>1663676313890</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Converted all session directories to packages and created Dog class in session07">
+      <created>1663679143150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663679143150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Created new repository with all the lecture activities in one." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created new repository with all the lecture activities in one." />
+    <MESSAGE value="Converted all session directories to packages and created Dog class in session07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Converted all session directories to packages and created Dog class in session07" />
   </component>
 </project>

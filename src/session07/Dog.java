@@ -7,11 +7,19 @@ public class Dog {
     double Weight;
     String Gender;
 
+    public Dog(String b, int a, String n, double w, String g) {
+        Breed   = b;
+        Age     = a;
+        Name    = n;
+        Weight  = w;
+        Gender  = g;
+    }
+
     public static void main(String[] args) {
-        Dog dog1 = new Dog();
-        Dog dog2 = new Dog();
-        System.out.println(dog1.Name);
-        System.out.println(dog2.Age);
+        Dog dog1 = new Dog("doodle", 3, "Marley", 25, "Male");
+        Dog dog2 = new Dog("lab", 5, "Chloe", 45, "Female");
+        System.out.println(dog1.Name+" is a "+dog1.Gender+" "+dog1.Breed+" that is "+dog1.Age+" years old and weighs "+dog1.Weight+" lbs.");
+        System.out.println(dog2.Name+" is a "+dog2.Gender+" "+dog2.Breed+" that is "+dog2.Age+" years old and weighs "+dog2.Weight+" lbs.");
     }
 }
 
