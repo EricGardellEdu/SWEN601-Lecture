@@ -7,12 +7,12 @@ public class Dog {
     double Weight;
     String Gender;
 
-    public Dog(String b, int a, String n, double w, String g) {
-        Breed   = b;
-        Age     = a;
-        Name    = n;
-        Weight  = w;
-        Gender  = g;
+    public Dog(String Breed, int Age, String Name, double Weight, String Gender) {
+        this.Breed   = Breed;
+        this.Age     = Age;
+        this.Name    = Name;
+        this.Weight  = Weight;
+        this.Gender  = Gender;
     }
 
     public static void main(String[] args) {
